@@ -1,0 +1,26 @@
+*{
+ 
+  text-align: center;
+  justify-content: center;
+  background-size: cover;
+  margin: 0;
+text-decoration: none;
+
+}
+nav{
+  color: white;
+ 
+}
+body{
+  background-image: url(https://edutechtalks.com/wp-content/uploads/2022/07/Digital-schools-The-rise-of-fully-online-education-1146x600.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.container{
+  text-align: center;
+  justify-content: center;
+ padding: 10px;
+text-decoration: none;
+}
